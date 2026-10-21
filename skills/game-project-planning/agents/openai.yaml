@@ -1,0 +1,7 @@
+interface:
+  display_name: "游戏立项"
+  short_description: "从玩法脑暴、参考调研到三张模拟实机图与美化立项案的完整流程"
+  default_prompt: "使用 $game-project-planning 带我完成一个游戏立项，根据我的想法逐步确认方向，最后生成美化的立项案。"
+
+policy:
+  allow_implicit_invocation: true
